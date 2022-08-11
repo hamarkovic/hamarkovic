@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamarkovic
+- 👋 Hi, I’m Hannah
 - 👀 I’m interested in developmental biology
 - 🌱 I’m currently learning about tissue modeling options
 - 💞️ I’m looking to collaborate on mathematical modeling
